@@ -1,4 +1,3 @@
-//main de pedrão
 #include <stdio.h>
 #include <string.h>
 #include "listagrafo.h"
